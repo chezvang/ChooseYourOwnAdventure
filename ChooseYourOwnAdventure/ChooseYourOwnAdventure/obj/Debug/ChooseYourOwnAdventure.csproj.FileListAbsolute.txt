@@ -1,2 +1,7 @@
 C:\Users\Chez\Desktop\CSharp\ClockRadio\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
 C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.pdb
