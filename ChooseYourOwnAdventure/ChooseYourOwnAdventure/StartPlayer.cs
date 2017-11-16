@@ -10,19 +10,31 @@ namespace ChooseYourOwnAdventure
     {
         //player alive or dead
         public bool isPlayerAlive;
-        public string playerStatus;
+        public bool playerLife;
 
         public StartPlayer(bool isPlayerAlive)
         {
             if (isPlayerAlive == true)
             {
-                isPlayerAlive = true;
                 Console.WriteLine("The player is alive.");
+                PlayerLifeCheck(true);
             }
             else
             {
-                isPlayerAlive = false;
-                Console.WriteLine("The player is dead.");
+                this.isPlayerAlive = false;
+                PlayerLifeCheck(false);
+            }
+        }
+        public void PlayerLifeCheck(bool isPlayerAlive)
+        {
+            if (isPlayerAlive == true)
+            {
+                this.playerLife = true;
+            }
+            else
+            {
+                this.playerLife = false;
+                Console.WriteLine("Game over");
             }
         }
     }

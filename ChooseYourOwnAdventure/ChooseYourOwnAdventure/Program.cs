@@ -10,15 +10,21 @@ namespace ChooseYourOwnAdventure
     {
         static void Main(string[] args)
         {
-            //player start, alive
+            //player start, alive, checks if player is alive
             StartPlayer startPlayer = new StartPlayer(true);
-            Console.ReadKey();
+
             //player goes into story, alive
-            //Story startPlayer = new Story(true);
+            Story startStory = new Story();
+            startStory.StartStory();
             //check if player alive or dead when out of story
+            StartPlayer playerLifeCheck = new StartPlayer(false);
+
             //if player dead, end, game over
-            
+            //playerLife.EndGame();
+
             //if player alive, end, win
+
+            Console.ReadKey();
 
 
         }
