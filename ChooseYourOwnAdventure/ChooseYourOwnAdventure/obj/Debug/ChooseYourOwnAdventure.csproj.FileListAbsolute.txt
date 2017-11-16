@@ -1,0 +1,2 @@
+C:\Users\Chez\Desktop\CSharp\ClockRadio\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+C:\Users\Chez\Desktop\CSharp\ChooseYourOwnAdventure\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
